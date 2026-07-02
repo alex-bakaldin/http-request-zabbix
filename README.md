@@ -16,7 +16,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-http-request-zabbix = "0.1.0"
+http-request-zabbix = "0.2"
 ```
 
 ### Example
